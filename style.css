@@ -1,17 +1,25 @@
 head {
-    center
+    text-align: center;
+    color: red;
 }
 
 body {
-    background: 
+    background-image: url("https://imgur.com/PovBrOC.png"); 
 }
 
 p {
+    font-family: "Times New Roman";
+    color: purple;
 
 }
 
 h2 h3 h4 h6 {
+ font-family: sans-serif; cursive;
+}
 
+img {
+    height: 10px;
+    width: 10px;
 }
 
 .contact {
@@ -24,4 +32,5 @@ h2 h3 h4 h6 {
 
 footer {
     text-align: right;
+    color: Orange;
 }
