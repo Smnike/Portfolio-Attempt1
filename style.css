@@ -2,6 +2,7 @@ header {
     text-align: center;
     color: rgb(17, 17, 156);
     font-size: 100px;
+    font-weight: bold;
 }
 
 body {
@@ -14,7 +15,8 @@ body {
 p {
     font-family: "Times New Roman";
     color: #800080;
-    text-align: left;
+    text-align: center;
+    font-weight: bold;
 
 }
 
@@ -46,5 +48,5 @@ footer {
     background-color: Orange;
 }
 nav {
-    display: inline;
+    display: inline-block;
 }
