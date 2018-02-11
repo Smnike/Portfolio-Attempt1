@@ -15,7 +15,6 @@ References:
 To-Do List:
 # Change font
 # Add real links to contacts buttons
-# Make contact list horizontal
 # Put project screenshots into flex container - make them stay in place
 #
 #
