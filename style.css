@@ -1,6 +1,6 @@
 header {
     text-align: center;
-    color: rgb(17, 17, 156);
+    color: rgb(235, 35, 35);
     font-size: 100px;
     font-family: Brush Script MT, Brush Script Std, cursive;
     text-shadow: 3.5px 3.5px  #737274;
@@ -73,3 +73,21 @@ nav {
 /* .aboutMe {
     
 } */
+
+ul {
+    text-align: center;
+    list-style-type: square;
+    list-style: square inside url("sqred.gif");
+}
+
+.icon {
+    display: flex;
+    display:block;
+    border: 2px solid red;
+}
+
+#motionList ul li a:hover {
+    -moz-transform:rotate(-5deg); -moz-box-shadow:10px 10px 20px #000000;
+    -webkit-transform:rotate(-5deg); -webkit-box-shadow:10px 10px 20px #000000;
+    transform:rotate(-5deg); box-shadow:10px 10px 20px #000000;
+}
