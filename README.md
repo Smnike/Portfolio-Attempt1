@@ -7,4 +7,16 @@ The purpose of this Portfolio page is to have a virtual, visual resume of sorts.
 References:
 # Contact & social media link buttons: 
     https://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-linkedin-square
+# Social media link list style:
+    http://old.marcofolio.net/css/8_different_ways_to_beautifully_style_your_lists.html
+#
+
+
+To-Do List:
+# Change font
+# Add real links to contacts buttons
+# Make contact list horizontal
+# Put project screenshots into flex container - make them stay in place
+#
+#
 #
