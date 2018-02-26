@@ -14,8 +14,8 @@ References:
 
 To-Do List:
 # Change font
-# Add real links to contacts buttons
-# Put project screenshots into flex container - make them stay in place
+# Add real links to contacts buttons.
+# Put project screenshots into flex container - make them stay in place - DONE
 #
 #
 #
